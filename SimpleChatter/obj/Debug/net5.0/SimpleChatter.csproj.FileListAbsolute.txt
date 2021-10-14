@@ -1,0 +1,15 @@
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/bin/Debug/net5.0/SimpleChatter.deps.json
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/bin/Debug/net5.0/SimpleChatter.runtimeconfig.json
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/bin/Debug/net5.0/SimpleChatter.runtimeconfig.dev.json
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/bin/Debug/net5.0/SimpleChatter.dll
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/bin/Debug/net5.0/ref/SimpleChatter.dll
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/bin/Debug/net5.0/SimpleChatter.pdb
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/SimpleChatter.csproj.AssemblyReference.cache
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/SimpleChatter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/SimpleChatter.AssemblyInfoInputs.cache
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/SimpleChatter.AssemblyInfo.cs
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/SimpleChatter.csproj.CoreCompileInputs.cache
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/SimpleChatter.dll
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/ref/SimpleChatter.dll
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/SimpleChatter.pdb
+/Users/simonkinch/DREAMCAST/CODING/2021-10-14 C Sharp Lesson 1/SimpleChatter/obj/Debug/net5.0/SimpleChatter.genruntimeconfig.cache
