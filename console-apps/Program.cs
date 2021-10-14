@@ -14,6 +14,13 @@ namespace console_apps
             {
                 Console.Out.WriteLine(line);
             }
+
+            //Take some input from the user and ask question
+            Console.Out.WriteLine("Name a different city.");
+            string userInput = Console.ReadLine();
+
+            // Overwrites the text file with the answer
+            File.WriteAllText("cities.txt",userInput);
         }
     }
 }
